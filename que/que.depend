@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1642113170 source:a:\c work(8.10)\que\main.c
+	<stdio.h>
+	<stdlib.h>
+	"que.h"
+
+1642109680 a:\c work(8.10)\que\que.h
+
+1642113154 source:a:\c work(8.10)\que\que.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"que.h"
+
